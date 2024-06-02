@@ -10,7 +10,7 @@
 - ПРОКАЧКА. Бот сам прокачивает майнинг на указанную в настройках сумму раз в определенное время
 - Не требует открытого телеграмма или наличия телефона
 
-Вся инструкция прикреплена в нашем [телеграм боте ](https://t.me/netclouddev_bot)
+Вся инструкция прикреплена в нашем [телеграм боте ](https://t.me/netcloud_dev)
 #### Зависимости:
 - [NodeJS 16+](https://nodejs.org/en)
 - run npm install
@@ -23,7 +23,7 @@
 - PUMPING. The bot itself pumps the mining for the amount specified in the settings once at a certain time
 - Does not require an open telegram or phone
 
-All instructions are attached in our [telegram bot ](https://t.me/netclouddev_bot)
+All instructions are attached in our [telegram bot ](https://t.me/netcloud_dev)
 
 #### Dependencies:
 - [NodeJS 16+](https://nodejs.org/en)
